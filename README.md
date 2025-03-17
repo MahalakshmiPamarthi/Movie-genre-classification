@@ -1,1 +1,1 @@
-# Movie-genre-classification
+# Spam-SMS-Detection
